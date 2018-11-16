@@ -1,7 +1,7 @@
 pipeline {
     agent none
     environment {
-        imageName = 'chainarongk/my_web_ex'
+        imageName = 'ChainarongK/my_web_ex'
         port = 9090
     }
     
